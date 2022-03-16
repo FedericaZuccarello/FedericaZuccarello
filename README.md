@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m @FedericaZuccarello
+
+- 👀 I’m interested in React.JS and Node.JS
+- 🌱 I’m currently learning French and Spanish
+- 📫 How to reach me: federica.zuccarello.95@gmail.com
 
 <!--
 **FedericaZuccarello/FedericaZuccarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
