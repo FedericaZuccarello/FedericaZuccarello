@@ -1,4 +1,5 @@
-👋 Hi, I'm Federica | Full Stack Software Engineer
+👋 Hi, I'm Federica
+
 I am a Full Stack Engineer specializing in the TypeScript ecosystem, with a strong background in building high-security blockchain intelligence tools. Most of my professional work was developed within private enterprise repositories at Elliptic, where I focused on end-to-end product delivery, business growth automation, and recently AI integration.
 
 🏢 Recent Professional Experience: Elliptic (2022 – 2026)
